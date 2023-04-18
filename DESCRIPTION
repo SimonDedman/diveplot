@@ -1,0 +1,21 @@
+Package: diveplot
+Title: ggPlot dive and other (temperature, light, location, etc.) data from electronic tags on marine species
+Version: 2023.04.17
+Authors@R: c(
+    person("Simon", "Dedman", , "simondedman@gmail.com", role = c("aut", "cre"))
+  )
+Description: Plot depth, internal and external temperature, light level, 
+    bathymetric depth at location, thermocline, animal position on map, 
+    animal residence/transit state, sunrise, sunset; and label various 
+    types of dive behaviour, adding depths for deep dives, depths and 
+    durations for U shaped dives, highlighting days of diel vertical 
+    migration (follows light to the mesopelagic).
+License: GNU GENERAL PUBLIC LICENSE v3
+Depends:
+    R (>= 3.5.0)
+Imports:
+Encoding: UTF-8
+Language: en-GB
+LazyData: true
+RoxygenNote: 7.2.3
+Remotes:

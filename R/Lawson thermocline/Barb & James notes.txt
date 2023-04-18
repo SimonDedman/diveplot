@@ -1,0 +1,5 @@
+Becky used Gareth Lawson's code for thermocline calculations. John from Stanford at sea, whiteshark trip, people define thermocline based on what they're doing, different thing for different people. Biologists think of it as bottom of mixed layer, oc think of specific mass of water.
+
+See Kara et al 2000 paper & Lawson/Castleton/Block 2010 paper.
+
+Write a better description of these files
